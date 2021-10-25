@@ -6,8 +6,8 @@ public class Cat extends Animal {
 
     public Cat(String catName) {
         this.name = catName;
-        this.voice = "Gav";
-        this.type = "Dog";
+        this.voice = "Mew";
+        this.type = "Cat";
     }
 
     @Override
